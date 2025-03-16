@@ -7,6 +7,7 @@ using UnityEditor.PackageManager;
 using System;
 using System.Collections.Generic;
 using Newtonsoft.Json;
+using UnityEditor;
 
 namespace GB
 {
@@ -34,8 +35,7 @@ namespace GB
 
         static void Load()
         {
-            _assets = Resources.Load<TextAsset>("GBVersion").text.FromJson<List<AssetData>>();
-
+            _assets = AssetDatabase.LoadAssetAtPath<TextAsset>("Packages/com.gb.assets/Editor/GBVersion.txt").text.FromJson<List<AssetData>>();
         }
 
         private void OnGUI()
