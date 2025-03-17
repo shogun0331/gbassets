@@ -5,7 +5,7 @@
         "Model":
         {
             "Key":"Resources",
-            "URL":"https://github.com/shogun0331/gbconnet/releases/download/V1.0.0/Resources.unitypackage",
+            "URL":"https://github.com/shogun0331/gbassets/releases/download/V1.0.0/Resources.unitypackage",
             "PackageType":0
         },
         "DependencyList":[]
@@ -16,7 +16,7 @@
         "Model":
         {
             "Key":"GSheet",
-            "URL":"https://github.com/shogun0331/gbconnet/releases/download/V1.0.0/GSheet.unitypackage",
+            "URL":"https://github.com/shogun0331/gbassets/releases/download/V1.0.0/GSheet.unitypackage",
             "PackageType":0
         },
         "DependencyList":[]
@@ -27,7 +27,7 @@
         "Model":
         {
             "Key":"Localization",
-            "URL":"https://github.com/shogun0331/gbconnet/releases/download/V1.0.0/Localization.unitypackage",
+            "URL":"https://github.com/shogun0331/gbassets/releases/download/V1.0.0/Localization.unitypackage",
             "PackageType":0
         },
         "DependencyList":[]
@@ -38,7 +38,7 @@
         "Model":
         {
             "Key":"UserData",
-            "URL":"https://github.com/shogun0331/gbconnet/releases/download/V1.0.0/UserData.unitypackage",
+            "URL":"https://github.com/shogun0331/gbassets/releases/download/V1.0.0/UserData.unitypackage",
             "PackageType":0
         },
         "DependencyList":[]
@@ -49,7 +49,7 @@
         "Model":
         {
             "Key":"SPRAnimation",
-            "URL":"https://github.com/shogun0331/gbconnet/releases/download/V1.0.0/SpriteAnimation.unitypackage",
+            "URL":"https://github.com/shogun0331/gbassets/releases/download/V1.0.0/SpriteAnimation.unitypackage",
             "PackageType":0
         },
         "DependencyList":[]
@@ -60,7 +60,7 @@
         "Model":
         {
             "Key":"Memo",
-            "URL":"https://github.com/shogun0331/gbconnet/releases/download/V1.0.0/Memo.unitypackage",
+            "URL":"https://github.com/shogun0331/gbassets/releases/download/V1.0.0/Memo.unitypackage",
             "PackageType":0
         },
         "DependencyList":[]
@@ -71,7 +71,7 @@
         "Model":
         {
             "Key":"Spine Util",
-            "URL":"https://github.com/shogun0331/gbconnet/releases/download/V1.0.0/GBSpine.unitypackage",
+            "URL":"https://github.com/shogun0331/gbassets/releases/download/V1.0.0/GBSpine.unitypackage",
             "PackageType":0
         },
         "DependencyList":[]
@@ -82,7 +82,7 @@
         "Model":
         {
             "Key":"TapSystem",
-            "URL":"https://github.com/shogun0331/gbconnet/releases/download/V1.0.0/TapSystem.unitypackage",
+            "URL":"https://github.com/shogun0331/gbassets/releases/download/V1.0.0/TapSystem.unitypackage",
             "PackageType":0
         },
         "DependencyList":[]
@@ -93,12 +93,12 @@
         "Model":
         {
             "Key":"UI Tween",
-            "URL":"https://github.com/shogun0331/gbconnet/releases/download/V1.0.0/UI_Tween.unitypackage",
+            "URL":"https://github.com/shogun0331/gbassets/releases/download/V1.0.0/UI_Tween.unitypackage",
             "PackageType":0
         },
         "DependencyList":
         [
-            {"Key":"Dotween","URL":"https://github.com/shogun0331/gbconnet/releases/download/V1.0.0/Tween.unitypackage","PackageType":0},
+            {"Key":"DoTween","URL":"https://github.com/shogun0331/gbconnet/releases/download/V1.0.0/Tween.unitypackage","PackageType":0},
         ]
     },
     {
@@ -107,7 +107,7 @@
         "Model":
         {
             "Key":"GB Inapp",
-            "URL":"https://github.com/shogun0331/gbconnet/releases/download/V1.0.0/Inapp.unitypackage",
+            "URL":"https://github.com/shogun0331/gbassets/releases/download/V1.0.0/Inapp.unitypackage",
             "PackageType":0
         },
         "DependencyList":[]
@@ -118,7 +118,7 @@
         "Model":
         {
             "Key":"GB Admob",
-            "URL":"https://github.com/shogun0331/gbconnet/releases/download/V1.0.0/Admob.unitypackage",
+            "URL":"https://github.com/shogun0331/gbassets/releases/download/V1.0.0/Admob.unitypackage",
             "PackageType":0
         },
         "DependencyList":[]
@@ -129,7 +129,7 @@
         "Model":
         {
             "Key":"GB Playfab",
-            "URL":"https://github.com/shogun0331/gbconnet/releases/download/V1.0.0/PlayfabExpansion.unitypackage",
+            "URL":"https://github.com/shogun0331/gbassets/releases/download/V1.0.0/GBPlayfab.unitypackage",
             "PackageType":0
         },
         "DependencyList":[]
@@ -140,7 +140,7 @@
         "Model":
         {
             "Key":"FeedbackDiscord",
-            "URL":"https://github.com/shogun0331/gbconnet/releases/download/V1.0.0/FeedbackDiscord.unitypackage",
+            "URL":"https://github.com/shogun0331/gbassets/releases/download/V1.0.0/FeedbackDiscord.unitypackage",
             "PackageType":0
         },
         "DependencyList":[]
@@ -153,8 +153,8 @@
         "DOC" : "https://dotween.demigiant.com/",
         "Model":
         {
-            "Key":"Dotween",
-            "URL":"https://github.com/shogun0331/gbconnet/releases/download/V1.0.0/Tween.unitypackage",
+            "Key":"DoTween",
+            "URL":"https://github.com/shogun0331/gbassets/releases/download/V1.0.0/DoTween.unitypackage",
             "PackageType":0
         },
         "DependencyList":[]
@@ -165,13 +165,10 @@
         "Model":
         {
             "Key":"AnimationSequencer",
-            "URL":"https://github.com/shogun0331/gbconnet/releases/download/V1.0.0/AnimationSequencer.unitypackage",
+            "URL":"https://github.com/shogun0331/gbassets/releases/download/V1.0.0/AnimationSequencer.unitypackage",
             "PackageType":0
         },
-        "DependencyList":
-        [
-            {"Key":"Dotween","URL":"https://github.com/shogun0331/gbconnet/releases/download/V1.0.0/Tween.unitypackage","PackageType":0},
-        ]
+        "DependencyList":[]
     },
     {
         "Version":"1.0.0",
@@ -179,7 +176,7 @@
         "Model":
         {
             "Key":"LocalizedAppTitle",
-            "URL":"https://github.com/shogun0331/gbconnet/releases/download/V1.0.0/UnityMobileLocalizedAppTitle.unitypackage",
+            "URL":"https://github.com/shogun0331/gbassets/releases/download/V1.0.0/UnityMobileLocalizedAppTitle.unitypackage",
             "PackageType":0
         },
         "DependencyList":[]
@@ -190,7 +187,7 @@
         "Model":
         {
             "Key":"AnimationBaking",
-            "URL":"https://github.com/shogun0331/gbconnet/releases/download/V1.0.0/AnimationBakingStudio.3Dto2D.unitypackage",
+            "URL":"https://github.com/shogun0331/gbassets/releases/download/V1.0.0/AnimationBakingStudio.3Dto2D.unitypackage",
             "PackageType":0
         },
         "DependencyList":[]
@@ -201,7 +198,7 @@
         "Model":
         {
             "Key":"MeshBaker",
-            "URL":"https://github.com/shogun0331/gbconnet/releases/download/V1.0.0/MeshBaker.unitypackage",
+            "URL":"https://github.com/shogun0331/gbassets/releases/download/V1.0.0/MeshBaker.unitypackage",
             "PackageType":0
         },
         "DependencyList":[]
@@ -212,7 +209,7 @@
         "Model":
         {
             "Key":"Logs_Viewer",
-            "URL":"https://github.com/shogun0331/gbconnet/releases/download/V1.0.0/Unity-Logs_Viewer.unitypackage",
+            "URL":"https://github.com/shogun0331/gbassets/releases/download/V1.0.0/Unity-Logs_Viewer.unitypackage",
             "PackageType":0
         },
         "DependencyList":[]
@@ -223,7 +220,7 @@
         "Model":
         {
             "Key":"ProCamera2D",
-            "URL":"https://github.com/shogun0331/gbconnet/releases/download/V1.0.0/ProCamera2D.unitypackage",
+            "URL":"https://github.com/shogun0331/gbassets/releases/download/V1.0.0/ProCamera2D.unitypackage",
             "PackageType":0
         },
         "DependencyList":[]
