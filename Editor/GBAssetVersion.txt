@@ -34,6 +34,22 @@
     },
     {
         "Version":"1.0.0",
+        "DOC" : "https://gb-framework.gitbook.io/gb-framework-docs/gb-assets/fsm",
+        "Model":
+        {
+            "Key":"FSM",
+            "URL":"https://github.com/shogun0331/gbassets/releases/download/V1.0.0/FSM.unitypackage",
+            "PackageType":0
+        },
+        "DependencyList":
+        [
+            {"Key":"SerializableInterface","URL":"https://github.com/Thundernerd/Unity3D-SerializableInterface.git","PackageType":1},
+        ]
+    },
+
+    
+    {
+        "Version":"1.0.0",
         "DOC" : "https://gb-framework.gitbook.io/gb-framework-docs/gb-assets/userdata",
         "Model":
         {
